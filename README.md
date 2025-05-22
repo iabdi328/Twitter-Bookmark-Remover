@@ -1,10 +1,6 @@
 # Twitter Bookmark Cleaner
 
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Puppeteer](https://img.shields.io/badge/puppeteer-automation-blue)](https://pptr.dev/)
-
-> A CLI tool that logs into Twitter, navigates to your Bookmarks page, and removes all bookmarked tweets using headless browser automation.
+ A CLI tool that logs into Twitter, navigates to your Bookmarks page, and removes all bookmarked tweets using headless browser automation.
 
 Features
 
